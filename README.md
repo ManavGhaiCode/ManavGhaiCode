@@ -1,13 +1,16 @@
 ### Hi there 👋
 
-<!--
-**ManavGhaiCode/ManavGhaiCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is Manav Ghai. I am a FullStack web/python/c++ devloper.
 
-Here are some ideas to get you started:
+I am working on a few projects -
+  - Decon
+  - cppPrint/cppTerm
+
+The Decon project is off Now but it will start soon. Cheak out cppPrint very helpfull in c++ Link - [cppPrint](https://github.com/ManavGhaiCode/cppPrint).
+
+I am doing -
 
 - 🔭 I’m currently working on c++, decon
 - 🌱 I’m currently learning c++
 - 💬 Ask me about JavaScript, python
-- 📫 How to reach me: manvghai12ouctuber@gmail.com
 - ⚡ Fun fact: I am linking c++!
--->
