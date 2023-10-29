@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hello person
 
-Hello, my name is Manav Ghai. I am a FullStack web/python/c++ devloper.
+Hello, my name is Manas Ghai. I am a stupid person in India. Doing porgramming for fun.
+I am 13 years old.
 
-I am working on a few projects -
-  - SunsireIndia
-  - cpps
+I love working with:
+  - C++
+  - JS (JavaScript)
 
-The cpps project is a **BIG BIG** project with extions on the **c++ language**, abstractions like ***print***, ***console***, etc. cheack it out now. Link - [**cpps**](https://github.com/ManavGhaiCode/cpps).
-
-I am doing -
-
-- 🔭 I’m currently: working on c++
-- 🌱 I’m currently: learning c++
-- 💬 Ask me about: JavaScript, python
-- ⚡ Fun fact: I am liking c++!
+I was a Unity dev, but due to Unity begin a stupid I have decided to make my own game Framework.
+The Framework is called HungaNut. Don't ask why!
