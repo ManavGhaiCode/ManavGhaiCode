@@ -1,11 +1,9 @@
-### Hello person
+### HELLO THERE
 
-Hello, my name is Manas Ghai. I am a stupid person in India. Doing porgramming for fun.
-I am 13 years old.
+I am Manas Ghai (name changed). I am a developer in India.
 
-I love working with:
-  - C++
-  - JS (JavaScript)
+My Skills:
+  C++
+  Website backends
 
-I was a Unity dev, but due to Unity begin a stupid I have decided to make my own game Framework.
-The Framework is called HungaNut. Don't ask why!
+I am working on a C++ Game Engine. I have made games in Unity but you know what happened.
